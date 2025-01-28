@@ -11,7 +11,7 @@ A página apresenta um menu interativo que:
 - Inclui um ícone de menu no formato de "três listras" (menu hambúrguer) à esquerda.
 - Ao clicar no ícone, o menu desliza para a direita, enquanto o fundo escurece, destacando o menu.
 - Dentro do menu, há opções como Home, Sobre, Serviços e Contato (não funcionais, apenas para demonstração).
-- 
+
 ## 💡 Funcionalidades
 
 - [x] Menu Interativo: Ícone do menu que aciona animações suaves ao abrir e fechar.
